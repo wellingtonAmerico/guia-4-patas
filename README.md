@@ -1,34 +1,30 @@
-# 🐾 Guia 4 Patas
+# Guia 4 Patas
 
-Projeto web desenvolvido com HTML, CSS, JavaScript e Bootstrap voltado ao universo pet.
+Frontend web project developed for the pet services segment using HTML, CSS, JavaScript and Bootstrap.
 
-O objetivo do projeto foi praticar:
-- estruturação de páginas web
-- responsividade
-- organização frontend
-- navegação entre páginas
-- estilização com Bootstrap
+The project was created to practice responsive layouts, multi-page navigation and front-end organization.
 
 ---
 
-## 🚀 Deploy
+## Deploy
 
-🔗 https://wellingtonamerico.github.io/guia-4-patas/
+https://wellingtonamerico.github.io/guia-4-patas/
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
 - Bootstrap
-- Git & GitHub
+- Git
+- GitHub
 - GitHub Pages
 
 ---
 
-## 📂 Estrutura do projeto
+## Project Structure
 
 ```bash
 guia-4-patas/
@@ -45,31 +41,39 @@ guia-4-patas/
 
 ---
 
-## 📚 Aprendizados
+## Features
 
-Durante o desenvolvimento deste projeto foram praticados conceitos como:
-
-- responsividade
-- componentização visual
-- organização de assets
-- navegação multi-page
-- publicação com GitHub Pages
-- versionamento com Git
+- Responsive layout
+- Multi-page navigation
+- Bootstrap components
+- Front-end asset organization
+- Pet services landing page structure
 
 ---
 
-## 📸 Preview
+## What Was Practiced
 
-<img src="img/topo.png" alt="Preview Guia 4 Patas">
+- Responsive web development
+- Bootstrap styling
+- UI organization
+- Multi-page website structure
+- Git version control
+- Website publishing with GitHub Pages
 
 ---
 
-## 👨‍💻 Autor
+## Preview
 
-Desenvolvido por Wellington Américo.
+<img src="img/topo.png" alt="Guia 4 Patas Preview">
 
-🔗 LinkedIn:
+---
+
+## Author
+
+Wellington Américo
+
+LinkedIn:
 https://www.linkedin.com/in/wellington-am%C3%A9rico/
 
-🔗 GitHub:
+GitHub:
 https://github.com/wellingtonAmerico
